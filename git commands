@@ -12,3 +12,8 @@ git add file_name
 
 # for all
 git add .
+
+# if you want to merge two branches
+# go to the branch you want to merge to
+# once in it type: 
+git merge name_of_branch_you_want_to_merge_to_this_branch
