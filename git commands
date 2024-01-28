@@ -1,0 +1,11 @@
+git init = initiate a project
+
+git checkout branch_name: go to branch_name
+
+git checkout -b branch_name: create branch_name and go to that branch
+
+git branch branch_name
+
+
+# to commit
+git add file_name
