@@ -9,3 +9,6 @@ git branch branch_name
 
 # to commit
 git add file_name
+
+# for all
+git add .
